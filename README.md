@@ -1,3 +1,3 @@
-# template2
+# view
 
-https://sinyo-wedding.github.io/template2/
+https://sinyo-wedding.github.io/template/
